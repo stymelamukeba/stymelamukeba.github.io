@@ -1,4 +1,16 @@
 body
 {
-	background-color: black;
+	background-color: white;
+}
+.section
+{
+display:  inline-block;
+height : 250px;
+width: 300px;
+font-family: Arial Narrow;
+background-color: rgb(242,242,242);
+}
+.head
+{
+ background-color: red;
 }
