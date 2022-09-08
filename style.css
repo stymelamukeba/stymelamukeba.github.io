@@ -1,6 +1,6 @@
 body
 {
-	background-color: white;
+	background-color: rgb(64,0,128);
 }
 .section
 {
@@ -9,7 +9,7 @@ height : 250px;
 width: 300px;
 font-family: Arial Narrow;
 background-color: rgb(242,242,242);
-margin-top: 25px;
+margin-top: 25%;
 margin-left: 30%;
 	
 }
